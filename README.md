@@ -13,4 +13,6 @@
 
 C library and GFA binding are available here : https://github.com/bganne/libjoy.git
 
+### made @ ADN 2022 https://demozoo.org/parties/4452/
+
 # Have fun /I\\ :)
